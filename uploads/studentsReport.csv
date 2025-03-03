@@ -1,0 +1,9 @@
+student Id, Student name,Student college, Student email, Student status, DSA Final Score, WebD Final Score, React Final Score, Interview date, Interview company, Interview result
+64ef62fd8c068895835e3e09,        Azad Ansari,dce darbhanga,azadansari201923@gmail.com,Placed,85,70,65,2023-06-15,cisco,On Hold
+64ef62fd8c068895835e3e09,        Azad Ansari,dce darbhanga,azadansari201923@gmail.com,Placed,85,70,65,2023-02-22,TCS,Didn't Attempt
+64ef62fd8c068895835e3e09,        Azad Ansari,dce darbhanga,azadansari201923@gmail.com,Placed,85,70,65,2023-09-05,Jane Street,PASS
+64f0bec4ba1fa93ab0c9f85e,  Alataf Ansari,Darbhanga College of Engineering, Darbhanga,alataf.dce.cs1@gmail.com,Placed,80,70,60,2023-06-28,MindSprint,On Hold
+64f0bec4ba1fa93ab0c9f85e,  Alataf Ansari,Darbhanga College of Engineering, Darbhanga,alataf.dce.cs1@gmail.com,Placed,80,70,60,2023-06-08,HCL,Didn't Attempt
+66765b3b6ed10aa687fbeec1,Khushboo Ansari,KL Mehta Dayanand College ,khushboo213@gmail.com,Not placed,80,75,55,2023-06-15,cisco,PASS
+66765b3b6ed10aa687fbeec1,Khushboo Ansari,KL Mehta Dayanand College ,khushboo213@gmail.com,Not placed,80,75,55,2023-06-08,HCL,Didn't Attempt
+66765b3b6ed10aa687fbeec1,Khushboo Ansari,KL Mehta Dayanand College ,khushboo213@gmail.com,Not placed,80,75,55,2024-06-23,Marshall,On Hold
